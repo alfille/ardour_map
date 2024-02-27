@@ -1,7 +1,7 @@
 # ardour_map
 Ardour (DAW) MIDI maps for some devices -- AKAI MPD226 and others
 
-[Audour](https://audour.org) is a Digital Audio Workstation (DAW) for creating and editing music.
+[Audour](https://ardour.org) is a Digital Audio Workstation (DAW) for creating and editing music.
 
 Some devices, like the [AKAI MPD226](https://www.akaipro.com/usb-pad-controller-with-rgb.html) are MIDI controllers (and a drum machine).
 
