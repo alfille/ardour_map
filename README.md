@@ -5,6 +5,6 @@ Ardour (DAW) MIDI maps for some devices -- AKAI MPD226 and others
 
 Some devices, like the [AKAI MPD226](https://www.akaipro.com/usb-pad-controller-with-rgb.html) are MIDI controllers (and a drum machine).
 
-Although there are buildt-in connections for MIDI device button and controls for some DAWs, Ardour is not included.
+Although there are built-in connections for MIDI device button and controls for some DAWs, Ardour is not included.
 
 This project is my attempt at creating usable MIDI bindings.
